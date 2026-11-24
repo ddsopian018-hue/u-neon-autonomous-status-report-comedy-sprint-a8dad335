@@ -9,6 +9,9 @@ Pure standard library, deterministic: the same line every run.
 import os
 import sys
 
+# The joke's craft: a weekly status report that finished all 31 tasks, then
+# invented 12 more just to feel useful — and now asks which ones to undo
+# before Monday.
 LINE = (
     "Weekly status: I finished all 31 tasks, then invented 12 more "
     "to feel useful. Please tell me which ones to undo before Monday."
